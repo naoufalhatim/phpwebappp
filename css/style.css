@@ -1,0 +1,129 @@
+	body{
+		margin:0px auto;
+		text-align:center;
+		font-family:verdana;
+		font-size:14px;
+		/*background-image: url("images/bg.jpg"); */
+		background-image:url("../images/bg5.jpg");
+	}
+	.header{
+		display:inline-block;
+		width:1000px;
+		height:100px;
+		margin:0px auto;
+		border-left:solid 1px silver;
+		border-right:solid 1px silver;
+		border-bottom:dotted 2px silver;
+		background-color:#F5F5F5;
+	}
+	.navigation{
+		display:inline-block;
+		width:1000px;
+		height:50px;
+		border-left:solid 1px silver;
+		border-right:solid 1px silver;
+		border-bottom:dotted 2px silver;
+		background-color:#F5F5F5;
+		margin:0px auto;
+		text-align:center;
+	}
+	.navigation ul{
+		list-style-type:none;
+	}
+	.navigation li{
+		margin:0px 7px;
+		float:left;
+	}
+	.navigation-lien{
+		
+		text-decoration:none;
+		padding-bottom:4px;
+		font-size: 16px;
+		font-weight: bold;
+		color: #fefefe;
+		background-color: #9AA49D;
+		padding-left: 7px;
+		padding-right: 7px;
+		margin-bottom: 5px;
+		border-radius: 15px;
+
+
+
+	}
+	.navigation-lien:hover{
+		border-bottom:solid 4px black;
+	}
+	.main{
+		text-align:left;
+		border-left:solid 1px silver;
+		border-right:solid 1px silver;
+		background-color:white;
+		display:inline-block;
+		width:1000px;
+		margin:0px auto;
+	}
+	.article{
+		float:left;
+		width:660px;
+		margin: 20px 40px;
+		border-left:solid 1px silver;
+		border-bottom:solid 1px silver;
+		padding-left:15px;
+	}
+	.titre-article{
+		color:firebrick;
+		font-weight:bold;
+		font-size:14px;
+	}
+	.footer{
+		display:inline-block;
+		margin:0px auto;
+		width:1000px;
+		height:50px;
+		border-top:solid 1px silver;
+		background-color:#EDEDED;
+	}
+	.footer ul{
+		list-style-type:none;
+	}
+	.footer li{
+		margin:0px 10px;
+		float:right;
+	}
+	.aside
+	{
+		float:right;
+		padding-left:15px;
+		width:210px;
+		border-left:solid 1px silver;
+		border-bottom:solid 1px silver;
+	}
+
+
+
+/* THE DIV */
+.simple-ss {
+  width:960px;
+  height:183px;
+  background-color:rgba(255, 0, 0, 0);
+  margin:auto;
+  background-image:url("../images/11.jpg");
+  background-position:0;
+  background-repeat:no-repeat;
+  background-size:cover;
+
+/* ANIMATING STUFF */
+  animation-name: slide;
+  animation-duration: 10s;
+  animation-direction: normal;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+@keyframes slide {
+  0% {background-position:0 0;}
+  16.66% {background-position:0 0;}
+  33.32% {background-position:-960px 0;}
+  /*66.64% {background-position:-960px 0;}*/
+  100% {background-position:0 0;}
+}
