@@ -4,7 +4,7 @@
 //connexion à la base de données
 function ouvrirConnexion(){
 	$user = 'webnaoufal';
-	$password = 'Hatim123&';
+	$password = '';
 	$db = 'mysql:host=localhost;dbname=webnaoufal';
 	try {
 		$cn = new PDO($db, $user, $password);
