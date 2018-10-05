@@ -1,243 +1,243 @@
-Profile;Session name;;
-Profile;Code;;
-Profile;Start date;;
-Profile;End date;;
-Profile;Status;;
-Profile;Description;;
-Profile;Registration mode;;
-Profile;Profitability threshold attained;;
-Profile;Registration closing date;;
-Profile;Session administrative domain;;
-Profile;Estimated duration in hours;;
-Profile;Price per participant;;
-Profile;Price per session;;
-Profile;Import code;;
-Profile;Online course version;;
-Profile;Provider;;
-Profile;Name of the user who created the session;;
-Profile;Name of the user who modified the session;;
-Profile;Creation date;;
-Profile;Modification date;;
-Profile;Is part of a training path;;
-Profile;Text 1 (optional);;
-Profile;Text 2 (optional);;
-Profile;Text 3 (optional);;
-Profile;Status Faurecia;;
-Profile;Enumeration Text 2 (optional);;
-Profile;Enumeration Text 3 (optional);;
-Profile;Decimal number 1 (optional);;
-Profile;Decimal number 2 (optional);;
-Profile;Decimal number 3 (optional);;
-Administrative;Administrative manager;;
-Administrative;Organisation mode;;
-Training;Training;;
-Training;Training information ;Training Id;
-Training;Training information ;Name;
-Training;Training information ;Code;
-Training;Training information ;Grouping code;
-Training;Training information ;Learning mode;
-Training;Training information ;Language;
-Training;Training information ;Training Administrative domain;
-Training;Training information ;Training provider;
-Training;Training information ;Category;
-Training;Training information ;Required qualification level;
-Training;Training information ;Targeted job titles;
-Training;Training information ;Required training courses;
-Training;Training information ;Estimated duration in hours;
-Training;Training information ;Price per participant;
-Training;Training information ;Year N+1 price per participant;
-Training;Training information ;Price per session;
-Training;Training information ;Diploma awarded;
-Training;Training information ;Import code;
-Training;Training information ;Training deletion date;
-Training;Training information ;Name of the user who created the training;
-Training;Training information ;Name of the user who modified the training;
-Training;Training information ;Creation date;
-Training;Training information ;Modification date;
-Training;Training information ;Description;
-Training;Training information ;Goal;
-Training;Training information ;Content;
-Training;Training information ;Specific condition;
-Training;Training information ;Text 1 (optional);
-Training;Training information ;Text 2 (optional);
-Training;Training information ;Text 3 (optional);
-Training;Training information ;Enumeration Text 1 (optional);
-Training;Training information ;Enumeration Text 2 (optional);
-Training;Training information ;Enumeration Text 3 (optional);
-Training;Training information ;Decimal number 1 (optional);
-Training;Training information ;Decimal number 2 (optional);
-Training;Training information ;Decimal number 3 (optional);
-Training;Training information ;Average rate;
-Training;Training information ;Rate count;
-Training;Training information ;Training need category;
-Training;Training information ;Time available for self-service;Duration
-Training;Training information ;Time available for self-service;Unit
-Training;Administrative;Eligible on IRT;
-Training;Administrative;IRT Code;
-Training;Administrative;Educational manager;
-Training;Administrative;Chargeable;
-Training;Administrative;Training request category;
-Training;Administrative;Administrative manager;
-Training;Administrative;Organisation mode;
-Training;Administrative;Validation type;
-Training;Categories;Categories;
-Training;Categories;Category level 0;
-Training;Categories;Category level 1;
-Training;Categories;Category level 2;
-Training;Categories;Category level 3;
-Training;Categories;Category level 4;
-Training;Categories;Category level 5;
-Training;Categories;Category level 6;
-Training;Categories;Category level 7;
-Training;Categories;Category level 8;
-Training;Categories;Category level 9;
-Training;Catalogue publication;Group;
-Training;Catalogue publication;Privilege;
-Training;Back-Office publication ;Domain;
-Training;Back-Office publication ;Privilege;
-Training;Training provider ;Training provider;
-Training;Training provider ;General information;Name
-Training;Training provider ;General information;Description
-Training;Training provider ;General information;Code
-Training;Training provider ;Address details;Address Line 1
-Training;Training provider ;Address details;Address Line 2
-Training;Training provider ;Address details;Postcode
-Training;Training provider ;Address details;City
-Training;Training provider ;Address details;Country
-Training;Training provider ;Contact details;Contact
-Training;Training provider ;Contact details;Phone number
-Training;Training provider ;Contact details;Fax
-Training;Training provider ;Contact details;Email
-Training;Training provider ;Contact details;Web site
-Training;Training provider ;Contact details;Information
-Training;Training provider ;Company details ;Activity Number
-Training;Training provider ;Company details ;Company number
-Training;Training provider ;Company details ;Company number
-Training;Training provider ;Company details ;Trading name
-Training;Training provider ;Company details ;Import code
-Resources ;Locations;;
-Resources ;Location deletion date;;
-Resources ;Rooms;;
-Resources ;Equipment;;
-Resources ;Trainer;;
-Resources ;Trainer deletion date;;
-Cancellation ;Cancelled;;
-Cancellation ;Cancellation reason;;
-Cancellation ;Description;;
-Cancellation ;Cancellation date;;
-Training path ;Training path;;
-Training path ;Training path ;Training path name;
-Training path ;Training path ;Code;
-Training path ;Training path ;Start date;
-Training path ;Training path ;End date;
-Training path ;Training path ;Tutors;
-Training path ;Training path ;Administrative domain;
-Training path ;Training path ;Creation date;
-Training path ;Training path ;Modification date;
-Training path ;Training path ;Name of the user who created the training path;
-Training path ;Training path ;Name of the user who modified the training path;
-Training path ;Training path ;Provider;
-Training path ;Training path ;Status;
-Training path ;Training path ;Description;
-Training path ;Registration ;Registrations;
-Training path ;Registration ;Profitability threshold;
-Training path ;Registration ;Capacity;
-Training path ;Registration ;Closing date for registrations;
-Training path ;Registration ;Registration mode;
-Training path ;Registration ;Price per participant;
-Training path ;Registration ;Price per training path;
-Training path ;Administrative ;Organisation mode;
-Training path ;Administrative ;Training request category;
-Training path ;Administrative ;Imputable;
-Training path ;Administrative ;Eligible on the basis of the IRT;
-Training path ;Administrative ;Administrative manager;
-Training path ;Cancellation ;Cancelled;
-Training path ;Cancellation ;Cancellation reason;
-Training path ;Cancellation ;Description;
-Training path ;Cancellation ;Cancellation date;
-Training path ;Cursus;Cursus;
-Training path ;Cursus;Cursus;Name
-Training path ;Cursus;Cursus;Code
-Training path ;Cursus;Cursus;Grouping code
-Training path ;Cursus;Cursus;Language
-Training path ;Cursus;Cursus;Administrative domain
-Training path ;Cursus;Cursus;Provider
-Training path ;Cursus;Cursus;Required level of study
-Training path ;Cursus;Cursus;Diploma awarded
-Training path ;Cursus;Cursus;Intended professions
-Training path ;Cursus;Cursus;Estimated duration in hours
-Training path ;Cursus;Cursus;Import code
-Training path ;Cursus;Cursus;Deletion date
-Training path ;Cursus;Cursus;Name of the user who created the cursus
-Training path ;Cursus;Cursus;Name of the user who modified the cursus
-Training path ;Cursus;Cursus;Creation date
-Training path ;Cursus;Cursus;Modification date
-Training path ;Cursus;Cursus;Description
-Training path ;Cursus;Cursus;Specific condition
-Training path ;Cursus;Cursus;Detailed programme
-Training path ;Cursus;Cursus;Goal
-Training path ;Registration ;Profitability threshold;
-Training path ;Registration ;Capacity;
-Training path ;Registration ;Price per participant;
-Training path ;Registration ;Price by training path;
-Training path ;Administrative ;Eligible on the basis of the IRT;
-Training path ;Administrative ;IRT Code;
-Training path ;Administrative ;Educational manager;
-Training path ;Administrative ;Administrative manager;
-Training path ;Administrative ;Validation type;
-Training path ;Administrative ;Imputable;
-Training path ;Administrative ;Training request category;
-Training path ;Administrative ;Organisation mode;
-Training path ;Categories ;Categories;
-Training path ;Categories ;Category level 0;
-Training path ;Categories ;Category level 1;
-Training path ;Categories ;Category level 2;
-Training path ;Categories ;Category level 3;
-Training path ;Categories ;Category level 4;
-Training path ;Categories ;Category level 5;
-Training path ;Categories ;Category level 6;
-Training path ;Categories ;Category level 7;
-Training path ;Categories ;Category level 8;
-Training path ;Categories ;Category level 9;
-Training path ;Catalogue publication ;Group;
-Training path ;Catalogue publication ;Privilege;
-Training path ;Training provider;Training provider;
-Training path ;Training provider;General information ;Name
-Training path ;Training provider;General information ;Description
-Training path ;Training provider;General information ;Code
-Training path ;Training provider;Address details;Address Line 1
-Training path ;Training provider;Address details;Address Line 2
-Training path ;Training provider;Address details;Postcode
-Training path ;Training provider;Address details;City
-Training path ;Training provider;Address details;Country
-Training path ;Training provider;Contact details ;Contact
-Training path ;Training provider;Contact details ;Phone number
-Training path ;Training provider;Contact details ;Fax
-Training path ;Training provider;Contact details ;Email
-Training path ;Training provider;Contact details ;Web site
-Training path ;Training provider;Contact details ;Information
-Training path ;Training provider;Company details ;Activity Number
-Training path ;Training provider;Company details ;Company number
-Training path ;Training provider;Company details ;Company number
-Training path ;Training provider;Company details ;Trading name
-Training path ;Training provider;Company details ;Import code
-Training provider;Training provider;;
-Training provider;General information ;Name;
-Training provider;General information ;Description;
-Training provider;General information ;Code;
-Training provider;Address details;Address Line 1;
-Training provider;Address details;Address Line 2;
-Training provider;Address details;Postcode;
-Training provider;Address details;City;
-Training provider;Address details;Country;
-Training provider;Contact details ;Contact;
-Training provider;Contact details ;Phone number;
-Training provider;Contact details ;Fax;
-Training provider;Contact details ;Email;
-Training provider;Contact details ;Web site;
-Training provider;Contact details ;Information;
-Training provider;Company details ;Activity Number;
-Training provider;Company details ;Company number;
-Training provider;Company details ;Company number;
-Training provider;Company details ;Trading name;
-Training provider;Company details ;Import code;
+Profile.Session name
+Profile.Code
+Profile.Start date
+Profile.End date
+Profile.Status
+Profile.Description
+Profile.Registration mode
+Profile.Profitability threshold attained
+Profile.Registration closing date
+Profile.Session administrative domain
+Profile.Estimated duration in hours
+Profile.Price per participant
+Profile.Price per session
+Profile.Import code
+Profile.Online course version
+Profile.Provider
+Profile.Name of the user who created the session
+Profile.Name of the user who modified the session
+Profile.Creation date
+Profile.Modification date
+Profile.Is part of a training path
+Profile.Text 1 (optional)
+Profile.Text 2 (optional)
+Profile.Text 3 (optional)
+Profile.Status Faurecia
+Profile.Enumeration Text 2 (optional)
+Profile.Enumeration Text 3 (optional)
+Profile.Decimal number 1 (optional)
+Profile.Decimal number 2 (optional)
+Profile.Decimal number 3 (optional)
+Administrative.Administrative manager
+Administrative.Organisation mode
+Training.Training
+Training.Training information .Training Id.
+Training.Training information .Name.
+Training.Training information .Code.
+Training.Training information .Grouping code.
+Training.Training information .Learning mode.
+Training.Training information .Language.
+Training.Training information .Training Administrative domain.
+Training.Training information .Training provider.
+Training.Training information .Category.
+Training.Training information .Required qualification level.
+Training.Training information .Targeted job titles.
+Training.Training information .Required training courses.
+Training.Training information .Estimated duration in hours.
+Training.Training information .Price per participant.
+Training.Training information .Year N+1 price per participant.
+Training.Training information .Price per session.
+Training.Training information .Diploma awarded.
+Training.Training information .Import code.
+Training.Training information .Training deletion date.
+Training.Training information .Name of the user who created the training.
+Training.Training information .Name of the user who modified the training.
+Training.Training information .Creation date.
+Training.Training information .Modification date.
+Training.Training information .Description.
+Training.Training information .Goal.
+Training.Training information .Content.
+Training.Training information .Specific condition.
+Training.Training information .Text 1 (optional).
+Training.Training information .Text 2 (optional).
+Training.Training information .Text 3 (optional).
+Training.Training information .Enumeration Text 1 (optional).
+Training.Training information .Enumeration Text 2 (optional).
+Training.Training information .Enumeration Text 3 (optional).
+Training.Training information .Decimal number 1 (optional).
+Training.Training information .Decimal number 2 (optional).
+Training.Training information .Decimal number 3 (optional).
+Training.Training information .Average rate.
+Training.Training information .Rate count.
+Training.Training information .Training need category.
+Training.Training information .Time available for self-service.Duration
+Training.Training information .Time available for self-service.Unit
+Training.Administrative.Eligible on IRT.
+Training.Administrative.IRT Code.
+Training.Administrative.Educational manager.
+Training.Administrative.Chargeable.
+Training.Administrative.Training request category.
+Training.Administrative.Administrative manager.
+Training.Administrative.Organisation mode.
+Training.Administrative.Validation type.
+Training.Categories.Categories.
+Training.Categories.Category level 0.
+Training.Categories.Category level 1.
+Training.Categories.Category level 2.
+Training.Categories.Category level 3.
+Training.Categories.Category level 4.
+Training.Categories.Category level 5.
+Training.Categories.Category level 6.
+Training.Categories.Category level 7.
+Training.Categories.Category level 8.
+Training.Categories.Category level 9.
+Training.Catalogue publication.Group.
+Training.Catalogue publication.Privilege.
+Training.Back-Office publication .Domain.
+Training.Back-Office publication .Privilege.
+Training.Training provider .Training provider.
+Training.Training provider .General information.Name
+Training.Training provider .General information.Description
+Training.Training provider .General information.Code
+Training.Training provider .Address details.Address Line 1
+Training.Training provider .Address details.Address Line 2
+Training.Training provider .Address details.Postcode
+Training.Training provider .Address details.City
+Training.Training provider .Address details.Country
+Training.Training provider .Contact details.Contact
+Training.Training provider .Contact details.Phone number
+Training.Training provider .Contact details.Fax
+Training.Training provider .Contact details.Email
+Training.Training provider .Contact details.Web site
+Training.Training provider .Contact details.Information
+Training.Training provider .Company details .Activity Number
+Training.Training provider .Company details .Company number
+Training.Training provider .Company details .Company number
+Training.Training provider .Company details .Trading name
+Training.Training provider .Company details .Import code
+Resources .Locations
+Resources .Location deletion date
+Resources .Rooms
+Resources .Equipment
+Resources .Trainer
+Resources .Trainer deletion date
+Cancellation .Cancelled
+Cancellation .Cancellation reason
+Cancellation .Description
+Cancellation .Cancellation date
+Training path .Training path
+Training path .Training path .Training path name.
+Training path .Training path .Code.
+Training path .Training path .Start date.
+Training path .Training path .End date.
+Training path .Training path .Tutors.
+Training path .Training path .Administrative domain.
+Training path .Training path .Creation date.
+Training path .Training path .Modification date.
+Training path .Training path .Name of the user who created the training path.
+Training path .Training path .Name of the user who modified the training path.
+Training path .Training path .Provider.
+Training path .Training path .Status.
+Training path .Training path .Description.
+Training path .Registration .Registrations.
+Training path .Registration .Profitability threshold.
+Training path .Registration .Capacity.
+Training path .Registration .Closing date for registrations.
+Training path .Registration .Registration mode.
+Training path .Registration .Price per participant.
+Training path .Registration .Price per training path.
+Training path .Administrative .Organisation mode.
+Training path .Administrative .Training request category.
+Training path .Administrative .Imputable.
+Training path .Administrative .Eligible on the basis of the IRT.
+Training path .Administrative .Administrative manager.
+Training path .Cancellation .Cancelled.
+Training path .Cancellation .Cancellation reason.
+Training path .Cancellation .Description.
+Training path .Cancellation .Cancellation date.
+Training path .Cursus.Cursus.
+Training path .Cursus.Cursus.Name
+Training path .Cursus.Cursus.Code
+Training path .Cursus.Cursus.Grouping code
+Training path .Cursus.Cursus.Language
+Training path .Cursus.Cursus.Administrative domain
+Training path .Cursus.Cursus.Provider
+Training path .Cursus.Cursus.Required level of study
+Training path .Cursus.Cursus.Diploma awarded
+Training path .Cursus.Cursus.Intended professions
+Training path .Cursus.Cursus.Estimated duration in hours
+Training path .Cursus.Cursus.Import code
+Training path .Cursus.Cursus.Deletion date
+Training path .Cursus.Cursus.Name of the user who created the cursus
+Training path .Cursus.Cursus.Name of the user who modified the cursus
+Training path .Cursus.Cursus.Creation date
+Training path .Cursus.Cursus.Modification date
+Training path .Cursus.Cursus.Description
+Training path .Cursus.Cursus.Specific condition
+Training path .Cursus.Cursus.Detailed programme
+Training path .Cursus.Cursus.Goal
+Training path .Registration .Profitability threshold.
+Training path .Registration .Capacity.
+Training path .Registration .Price per participant.
+Training path .Registration .Price by training path.
+Training path .Administrative .Eligible on the basis of the IRT.
+Training path .Administrative .IRT Code.
+Training path .Administrative .Educational manager.
+Training path .Administrative .Administrative manager.
+Training path .Administrative .Validation type.
+Training path .Administrative .Imputable.
+Training path .Administrative .Training request category.
+Training path .Administrative .Organisation mode.
+Training path .Categories .Categories.
+Training path .Categories .Category level 0.
+Training path .Categories .Category level 1.
+Training path .Categories .Category level 2.
+Training path .Categories .Category level 3.
+Training path .Categories .Category level 4.
+Training path .Categories .Category level 5.
+Training path .Categories .Category level 6.
+Training path .Categories .Category level 7.
+Training path .Categories .Category level 8.
+Training path .Categories .Category level 9.
+Training path .Catalogue publication .Group.
+Training path .Catalogue publication .Privilege.
+Training path .Training provider.Training provider.
+Training path .Training provider.General information .Name
+Training path .Training provider.General information .Description
+Training path .Training provider.General information .Code
+Training path .Training provider.Address details.Address Line 1
+Training path .Training provider.Address details.Address Line 2
+Training path .Training provider.Address details.Postcode
+Training path .Training provider.Address details.City
+Training path .Training provider.Address details.Country
+Training path .Training provider.Contact details .Contact
+Training path .Training provider.Contact details .Phone number
+Training path .Training provider.Contact details .Fax
+Training path .Training provider.Contact details .Email
+Training path .Training provider.Contact details .Web site
+Training path .Training provider.Contact details .Information
+Training path .Training provider.Company details .Activity Number
+Training path .Training provider.Company details .Company number
+Training path .Training provider.Company details .Company number
+Training path .Training provider.Company details .Trading name
+Training path .Training provider.Company details .Import code
+Training provider.Training provider
+Training provider.General information .Name.
+Training provider.General information .Description.
+Training provider.General information .Code.
+Training provider.Address details.Address Line 1.
+Training provider.Address details.Address Line 2.
+Training provider.Address details.Postcode.
+Training provider.Address details.City.
+Training provider.Address details.Country.
+Training provider.Contact details .Contact.
+Training provider.Contact details .Phone number.
+Training provider.Contact details .Fax.
+Training provider.Contact details .Email.
+Training provider.Contact details .Web site.
+Training provider.Contact details .Information.
+Training provider.Company details .Activity Number.
+Training provider.Company details .Company number.
+Training provider.Company details .Company number.
+Training provider.Company details .Trading name.
+Training provider.Company details .Import code.
